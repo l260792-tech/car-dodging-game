@@ -1,0 +1,8 @@
+build/
+.vscode/
+.idea/
+*.user
+*.suo
+*.dll
+*.exe
+highscore.txt
